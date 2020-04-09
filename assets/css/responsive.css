@@ -1,0 +1,396 @@
+@media screen and (min-width: 992px) and (max-width: 1169px) {
+	.container {
+		max-width: 960px;
+	}
+	#header-area {
+    	height: auto;
+    }
+    .logo-area {
+	    float: inherit;
+	    text-align: center;
+	}
+	.help-line-info {
+	    margin-right: 100px;
+	    margin-bottom: 28px;
+	}
+	.about-image {
+	    margin-top: 505px;
+	}
+	.blog-content {
+		padding: 41px 30px;
+	}
+	#tns3-ow .tns-controls button[data-controls="prev"] {
+	    left: 30px;
+	}
+	input[type="email"] {
+    	padding: 15px;
+    }
+    .footer-form button {
+    	padding: 15px;
+    	font-weight: 500;
+    }
+    .footer-socials ul li {
+	    margin-right: 0;
+	}
+	.footer-socials ul li a {
+		margin-bottom: 5px;
+	}
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.container{
+		max-width: 720px;
+	}
+	#header-top {
+	    height: auto;
+	}
+	.header-top-left-content {
+	    float: inherit;
+	    border: none;
+	    text-align: center;
+	}
+	.header-top-right-content {
+	    float: inherit;
+	}
+	.header-top-right-elements a {
+		border: none;
+	}
+	.header-top-right-elements a:first-child {
+		padding-right: 2px;
+	}
+	input[type="text"] {  
+	    border: 1px solid #ddd;
+	    border-bottom: none;
+	}
+	#header-area {
+    	height: auto;
+    }
+    .logo-area {
+	    float: inherit;
+	    text-align: center;
+	}
+	.help-line-info {
+	    margin-right: -12px;
+	    margin-bottom: 28px;
+	}
+	.nav-elements ul li {
+    	margin-right: 8px;
+    }
+    .nav-elements ul li a {
+    	font-size: 15px;
+    }
+    .nav-elements ul li i {
+	    margin-left: 1px;
+	}
+	.menu-btn a {
+	    padding: 26px 16px;
+	    font-size: 15px;
+	}
+	.about-image {
+	    display: none;
+	}
+	#about-area {
+		text-align: center;
+	}
+	#about-area .col-6 {
+	    width: 100%;
+	    float: inherit;
+	}
+	.service-img img {
+	    width: 5%;
+	    margin: 0 auto;
+	}
+	.about-info {
+	    margin-bottom: 50px;
+	}
+	.about-service {
+	    margin-top: 30px;
+	}
+	.col-4 {
+	    width: 50%;
+	}
+	.pricing-contents {
+	    margin-bottom: 30px;
+	}
+	.blog-content {
+		padding: 34px 30px;
+	}
+	.blog-content p {
+	    line-height: 24px;
+	}
+	input[type="email"] {
+    	padding: 15px;
+    }
+    .footer-form button {
+    	padding: 15px;
+    	font-weight: 500;
+    }
+    .footer-socials ul li {
+	    margin-right: 0;
+	}
+	.footer-socials ul li a {
+		margin-bottom: 5px;
+	}
+	#tns3-ow .tns-controls button[data-controls="prev"] {
+	    left: 30px;
+	}
+}
+
+@media screen and (min-width: 540px) and (max-width: 767px) {
+	.container{
+		max-width: 500px;
+	}
+	#header-top {
+	    height: auto;
+	}
+	.header-top-left-content {
+	    float: inherit;
+	    border: none;
+	    text-align: center;
+	}
+	.header-top-right-content {
+	    float: inherit;
+	}
+	.header-top-right-elements a {
+		border: none;
+	}
+	.header-top-right-elements a:first-child {
+		padding-right: 2px;
+	}
+	input[type="text"] {  
+	    border: 1px solid #ddd;
+	    border-bottom: none;
+	}
+	#header-area {
+    	height: auto;
+    }
+    .logo-area {
+	    float: inherit;
+	    text-align: center;
+	}
+	.help-line-content {
+    	float: inherit;
+    	margin-bottom: 15px;
+    }
+	.help-line-info {
+		float: inherit;
+	    margin-right: -12px;
+	    margin-bottom: 14px;
+	    margin-left: 140px;
+	}
+	.help-line-texts h2 {
+	    font-size: 16px;
+	}
+	.help-line-texts p {
+	    font-size: 14px;
+	}
+	.menu-right-area {
+	    margin-right: 140px;
+	}
+	.menu-btn a {
+	    padding: 26px 16px;
+	    font-size: 15px;
+	}
+	.slider-content-text h3 {
+	    font-size: 25px;
+	}
+	.slider-content-text h2 {
+   	 	font-size: 35px;
+    }
+    #menu-area nav i{
+    	display: none;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+    	height: 27px;
+    }
+    .mean-container .mean-bar {
+    	background: #737070;
+    }
+    .mean-container .mean-nav {
+	  background: #737070;
+	}
+	.mean-container .mean-nav ul li a.mean-expand:hover {
+	   background: #ccc;
+	}
+	.about-image {
+	    display: none;
+	}
+	#about-area {
+		text-align: center;
+	}
+	#about-area .col-6 {
+	    width: 100%;
+	    float: inherit;
+	}
+	.service-img img {
+	    width: 8%;
+	    margin: 0 auto;
+	}
+	.col-4 {
+	    width: 100%;
+	}
+	.pricing-contents {
+	    margin-bottom: 30px;
+	}
+	.blog-image {
+		float: inherit;
+	}
+	.blog-content {
+	    padding: 25px 30px;
+	}
+	.clients-main-content {
+	    padding: 70px 0;
+	}
+	.footer-logo {
+	    margin-bottom: 30px;
+	}
+	.footer-heading {
+	    margin: 30px 0px 30px 0px;
+	}
+	.title-area p {
+    	font-size: 14px;
+	}
+}
+
+@media (max-width: 539px) {
+	.container{
+		max-width: 350px;
+	}
+	#header-top {
+	    height: auto;
+	}
+	.header-top-left-content {
+	    float: inherit;
+	    border: none;
+	    text-align: center;
+	}
+	.header-top-right-content {
+	    float: inherit;
+	}
+	.header-top-right-elements a {
+		border: none;
+	}
+	.header-top-right-elements a:first-child {
+		padding-right: 2px;
+	}
+	input[type="text"] {  
+	    border: 1px solid #ddd;
+	    border-bottom: none;
+	}
+	#header-area {
+    	height: auto;
+    }
+    .logo-area {
+	    float: inherit;
+	    text-align: center;
+	}
+	.help-line-content {
+    	float: inherit;
+    	margin-bottom: 15px;
+    }
+	.help-line-info {
+		float: inherit;
+	    margin-right: -12px;
+	    margin-bottom: 14px;
+	    margin-left: 60px;
+	}
+	.help-line-texts h2 {
+	    font-size: 16px;
+	}
+	.help-line-texts p {
+	    font-size: 14px;
+	}
+	.menu-right-area {
+	    margin-right: 65px;
+	}
+	.menu-btn a {
+	    padding: 26px 16px;
+	    font-size: 15px;
+	}
+	.slider-content-text h3 {
+	    font-size: 24px;
+	}
+	.slider-content-text h2 {
+   	 	font-size: 27px;
+    }
+    .slider-content-text p {
+	    font-size: 16px;
+	}
+    #menu-area nav i{
+    	display: none;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+    	height: 27px;
+    }
+    .mean-container .mean-bar {
+    	background: #737070;
+    }
+    .mean-container .mean-nav {
+	  background: #737070;
+	}
+	.mean-container .mean-nav ul li a.mean-expand:hover {
+	   background: #ccc;
+	}
+	.about-image {
+	    display: none;
+	}
+	#about-area {
+		text-align: center;
+	}
+	#about-area .col-6 {
+	    width: 100%;
+	    float: inherit;
+	}
+	.service-img img {
+	    width: 8%;
+	    margin: 0 auto;
+	}
+	.col-4 {
+	    width: 100%;
+	}
+	.pricing-contents {
+	    margin-bottom: 30px;
+	}
+	.blog-image {
+		float: inherit;
+	}
+	.blog-content {
+	    padding: 25px 30px;
+	}
+	.clients-main-content {
+	    padding: 70px 0;
+	}
+	.footer-logo {
+	    margin-bottom: 30px;
+	}
+	.footer-heading {
+	    margin: 30px 0px 30px 0px;
+	}
+	.title-area p {
+    	font-size: 14px;
+	}
+	.about-info h2 {
+    	font-size: 30px;
+    }
+    .title-area h2 {
+	    font-size: 30px;
+	}
+	#testimonial-area .tns-nav {
+	    top: 75%;
+	}
+	.footer-socials ul li a {
+	    width: 30px;
+	    height: 30px;
+	    line-height: 30px;
+	}
+	.footer-socials h3 {
+    	font-size: 20px;
+    }
+    input[type="email"] {
+    	width: 67%;
+    }
+    .header-top-right-elements {
+	    float: inherit;
+	    text-align: center;
+	}
+}
